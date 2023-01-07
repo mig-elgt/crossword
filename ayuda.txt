@@ -1,0 +1,24 @@
+INTRODUCCION:
+      
+      E s t e   p r o g r a m a   e s   l a   s i m u l a c i o n   d e   u n   c r u c i g r a m a 
+      e n   m o d o   g r a f i c o  ,  u t i l i z a n d o   e s t r u c t u r a s   d e   c o n t r o l   y   
+      de   d a t o s ,    d e n o m i n a d o   C R U C I P R O G .
+      C R U C I P R O G   e s t a   e n f o c a d o   a   c o n c e p t o s   b a s i c o   y 
+      a b s t r a c t o s   d e   l a   p r o g r a m a c i o n ,   a s i e n d o   e n f a s i s   e n 
+      e l   l e n g u a j e   d e   p r o g r a m a c i o n   C .
+      E n   e l   j u e g o ,   e l   n u m e r o   a   u n   l a d o   d e   l a   o r a c i o n ,  i n d i c a 
+      e l   n u m e r o   d e   c u b o s   q u e   c o n t e n d r a   e s a   p a l a b r a   e n 
+      e l   c r u c i g r a m a,   s e g u n   e l   c a s o  (   H o r i z o n t a l   o   v e r t i c a l   ) .
+      L a   u n i c a   l i m i t a n t e   d e l   j u e g o   e s   e l   t i e m p o   q u e   s e   h a y a
+      e s t a b l e c i d o   y   p o r   e n d e   e l   d e f i c i t   d e   p r o g r a m a c i o n
+      d e l   u s u a r i o .
+
+CONTROLES:
+      
+      N o t a : E l   u s o   d e l   t e c l a d o   e s   e n   m o d o   m a y u s c u l a.
+      
+                              D e r e c h a          - >  6              I z q u i e r d a         - >  4
+                              A t r a s                   - >  7              A d e l a n t e          - >  9   
+                              A r r i b a                - >  8              A b a j o                   - >  2   
+ 
+ 

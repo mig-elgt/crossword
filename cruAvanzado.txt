@@ -1,0 +1,20 @@
+             R
+  U     FWRITE
+BINARIO      C
+  D         PUTCHAR
+FREAD        R
+  R    FOPEN S     A
+  FCLOSE  S PILAS  P
+  L    O  T  V     U
+ COLAS F ARCHIVO   N
+  W       U  D     T
+          C MALLOC A
+        GETS D  V  D
+   O L    U    TEXTO
+   R I    R     R  R
+   DINAMICAS    F  E
+   E E          L  S
+   N A  F       O
+   A L  R       W
+   R E  E
+     SIZEOF

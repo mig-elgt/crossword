@@ -1,0 +1,37 @@
+Horizontal:
+
+ 7.- Convierte de minusculas a mayusculas
+11.- Coleccion de elementos finitos 
+      y heterogeneos
+ 5.- Manipulacion de caracteres
+ 2.- Estructura Selectiva
+ 5.- Iteracion
+ 5.- Ocasiona la salida inmedianta 
+      de un instruccion 
+ 6.- Manipulacion de cadenas
+12.- Lenguaje informal
+ 5.- American Standard Code for 
+      Interchange Information
+ 5.- Lectura de datos
+
+
+Vertical:
+
+11.- Hace legible un programa
+ 7.- Convierte de mayusculas a minusculas
+ 9.- Objeto que cambia su valor
+ 5.- Solo uno de sus componentes puede 
+       recibir un valor a la ves
+13.- Formado por letras y digitos
+ 3.- UMA
+ 7.- Conjunto de datos del mismo tipo
+ 9.- Divide y venceras
+10.- Invariable
+ 9.- Conjunto de acciones que permite 
+       alcanzar un objetivo                    
+ 8.- Conjunto de instrucciones que sigue una 
+       computadora para algun fin
+ 6.- Permite copiar cadenas
+ 6.- longitud de una cadena
+ 6.- Estructura bifurcada
+ 3.- Estrutura ciclica  

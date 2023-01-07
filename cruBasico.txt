@@ -1,0 +1,20 @@
+    C  TOUPPER       
+    O  O          V
+    M  L ESTRUCTURAS
+CTYPE  O        N R
+    N  W        I IF 
+    T  E    CICLO A
+    A BREAK  D  N B
+    R I  R   E F  L
+    I T  R   N U  E
+C   O    E A T N  S
+O   STRING L I C P
+N S      L G F I R
+S T PSEUDOCODIGO O
+T R  T     R C N G
+A C  R ASCII A E R
+N M  L  W  T D SCANF
+TYPEDEF I  M O   M O
+E    N  T  O R   A R
+S       C
+        H          

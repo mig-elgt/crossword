@@ -1,0 +1,35 @@
+Horizontal:
+
+ 
+ 6.- Escribe un bloque en un archivo
+ 7.- Su acceso es directo
+ 7.- Escribe un caracter
+ 5.- Lee un bloque de un archivo
+ 5.- Abre un archivo
+ 5.- UEPS
+ 7.- Almacena informacion de manera
+      permanente
+ 6.- Cierra un archivo
+ 5.- FIFO
+ 6.- Reserva memoria en tiempo de 
+      ejecucion
+ 4.- Lectura de cadenas
+ 5.- Su acceso es secuencial
+ 9.- Estructuras que cambia se tamaño en 
+      tiempo de ejecucion 
+ 6.- Determina el tamaño en bytes
+
+
+Vertical:
+
+
+12.- Se llama a si misma
+ 9.- Subdesbordamiento
+ 4.- Verifica el fin del archivo
+10.- Representa un bloque de datos
+11.- Alamacena la direccion de otras 
+      variables
+ 8.- Desbordamiento
+ 7.- Reagrupar
+ 8.- Estructuras estaticas
+ 4.- Libera memoria 

@@ -1,0 +1,36 @@
+
+Horizontal:
+
+ 
+ 6.- Formada por una secuencia de 
+      caracteres
+ 4.- Tipo de funcion que no devuelve nada
+ 4.- Convierte una cadena a entero
+ 7.- Resuelve un problema
+ 4.- Funcion principal
+ 4.- Lee una linea de caracteres
+ 5.- Definida dentro de una funcion
+ 5.- Lectura de datos
+ 5.- Agrupa valores de un mismo tipo
+ 6.- Define una estructura
+ 9.- Declara una funcion
+ 4.- Representa un caracter
+ 7.- Es digito?
+ 4.- SO creado po C
+ 9.- Se definen antes de su uso
+
+
+
+Vertical:
+
+
+ 5.- Genera numeros aleatorios
+ 7.- Conversion de tipo
+ 6.- Finaliza una funcion
+ 7.- Se ejecuta al no cimplirse un caso
+ 6.- Longitud de una cadena
+ 8.- Dato que representa 1 o 0
+ 9.- Especifica una accion a realizar
+ 6.- Compara cadenas
+10.- Representa un entidad
+ 6.- Imprime datos 

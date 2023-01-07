@@ -1,0 +1,21 @@
+    S               
+    R   C          R
+   CADENA          E
+    N   S        D T
+ VOID  ATOI      E U
+        I        F R
+  FUNCION S   B MAIN
+        GETS  O  U
+          R  LOCAL
+ S  S     L   L  T
+ E  T  E  E   E P
+ N  R  SCANF  ARRAY
+STRUCT T      N I
+ E  M PROTOTIPO N
+ N  P  U        T
+ C     CHAR     F
+ ISDIGIT
+ A     UNIX
+       R
+      VARIABLES
+  

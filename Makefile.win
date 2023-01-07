@@ -1,0 +1,30 @@
+# Project: estructuraDeCubos3D
+# Makefile created by Dev-C++ 4.9.9.2
+
+CPP  = g++.exe
+CC   = gcc.exe
+WINDRES = windres.exe
+RES  = 
+OBJ  = array3D_Estructura.o $(RES)
+LINKOBJ  = array3D_Estructura.o $(RES)
+LIBS =  -L"C:/Dev-Cpp/lib" -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32 
+INCS =  -I"C:/Dev-Cpp/include" 
+CXXINCS =  -I"C:/Dev-Cpp/lib/gcc/mingw32/3.4.2/include"  -I"C:/Dev-Cpp/include/c++/3.4.2/backward"  -I"C:/Dev-Cpp/include/c++/3.4.2/mingw32"  -I"C:/Dev-Cpp/include/c++/3.4.2"  -I"C:/Dev-Cpp/include" 
+BIN  = estructuraDeCubos3D.exe
+CXXFLAGS = $(CXXINCS)  
+CFLAGS = $(INCS)  
+RM = rm -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before estructuraDeCubos3D.exe all-after
+
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o "estructuraDeCubos3D.exe" $(LIBS)
+
+array3D_Estructura.o: array3D_Estructura.cpp
+	$(CPP) -c array3D_Estructura.cpp -o array3D_Estructura.o $(CXXFLAGS)
